@@ -1,5 +1,5 @@
 # CSCE1015 - Hochstetler
 Assignment repository for UNT CSCE1015
-##EUID
+## EUID
 PK0999
-##Favorite Professor
+## Favorite Professor
